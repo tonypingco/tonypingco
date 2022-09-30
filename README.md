@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonypingco" alt="tonypingco" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/the_healthy_dev" target="blank"><img src="https://img.shields.io/twitter/follow/the_healthy_dec?logo=twitter&style=for-the-badge" alt="the_healthy_dec" /></a> </p>
+<p align="left"> <a href="https://twitter.com/the_healthy_dev" target="blank"><img src="https://img.shields.io/twitter/follow/the_healthy_dev?logo=twitter&style=for-the-badge" alt="the_healthy_dev" /></a> </p>
 
 - 🔭 I’m currently working on [Generation Australia](generation.)
 
